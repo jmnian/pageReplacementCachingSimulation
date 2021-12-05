@@ -1,0 +1,18 @@
+lrc 27 (this is for when we can add a line in the input txt file, I doubt it can work on Professor's computer)
+-1
+-2
+-3
+-4
+556
+123
+3
+Ask
+Dsf
+Erw
+T
+Asdf
+123
+34
+12
+3
+Haha
